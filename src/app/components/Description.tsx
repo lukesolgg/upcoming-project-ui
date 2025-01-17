@@ -2,7 +2,7 @@ import React from 'react';
 
 const Description: React.FC = () => (
   <>
-    <p className="text-base sm:text-xl font-mono mb-4 sm:mb-12 text-blue-200 max-w-7xl text-center mx-auto">
+    <p className="text-base sm:text-xl font-mono mb-4 sm:mb-12 lg:mb-20 text-blue-200 max-w-7xl text-center mx-auto">
     This project delves into an enigmatic AI-driven cosmos, where your consciousness merges with an ever-evolving digital landscape. Each interaction with the AI entity Anon crafts ripples across dimensions, altering the fabric of this virtual existence. 
     </p>
     <p className="text-base sm:text-xl font-mono mb-4 sm:mb-12 text-blue-200 max-w-7xl text-center mx-auto">
