@@ -1,7 +1,7 @@
 import React from 'react';
 
 const NewTitle: React.FC = () => (
-  <h1 className="text-5xl font-mono mb-4 text-blue-200">Neon Genesis: The Veil of Anon</h1>
+  <h1 className="text-3xl sm:text-5xl font-mono mb-4 text-blue-200">Neon Genesis: The Veil of Anon</h1>
 );
 
 export default NewTitle;

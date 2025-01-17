@@ -20,15 +20,15 @@ export default function Home() {
   };
 
   return (
-    <div className="bg-radial-gradient h-screen flex items-center justify-center text-center p-4 relative">
+    <div className="bg-radial-gradient min-h-screen flex items-center justify-center text-center p-4 sm:p-8 relative">
       {isJourneyStarted ? (
-        <div className="text-white">
+        <div className="text-white space-y-4">
           <BackButton onBackClick={handleBack} />
           <NewTitle />
           <AfterScreen />
         </div>
       ) : (
-        <div className="text-white">
+        <div className="text-white space-y-4">
           <NewTitle />
           <Description />
           <CallToAction onStartJourney={handleStartJourney} />
