@@ -74,6 +74,7 @@ This project is primarily a showcase of personal skills but pull requests for im
 For inquiries or collaboration opportunities, feel free to reach out to me:
 
 Twitter: @ldkcapital
-Email: lukeknightofficial@gmail.com (mailto:lukeknightofficial@gmail.com)
+
+Email: lukeknightofficial@gmail.com
 
 Thank you for visiting my portfolio project. I hope it gives you a clear insight into my capabilities as a front-end developer specializing in creating responsive, engaging user interfaces with Next.js and Tailwind CSS.
